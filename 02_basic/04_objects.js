@@ -62,5 +62,19 @@ const course = {
 
 //course.courseInstructor
 
-const {courseInstructor:instructor} = course;
+const {courseInstructor:instructor} = course; 
+
+//console.log(courseInstructor);
 console.log(instructor);
+
+/*{
+    "name": "Raziya",
+    "coursename": "js in hindi",
+    "price": "free"
+}*/
+
+[
+    {},
+    {},
+    {}
+]
