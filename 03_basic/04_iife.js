@@ -1,4 +1,5 @@
 (function chai() {
+    //name iife
     console.log(`DB CONNECTED`)
 })();
 
