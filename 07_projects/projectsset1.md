@@ -1,7 +1,7 @@
 # Projects related to DOM
 
 ## project link
-[Click here](https://stackblitz/com/edit/1-colorChanger?file=index.html)
+[Click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
 
 # Solution code
 
@@ -27,3 +27,6 @@ buttons.forEach(function (button) {
         }
     })
 })
+
+## Project 2
+```javaScript
